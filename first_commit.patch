@@ -1,0 +1,15 @@
+Index: RFIDCopy/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- RFIDCopy/.idea/vcs.xml	(date 1532822963756)
++++ RFIDCopy/.idea/vcs.xml	(date 1532822963756)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
